@@ -3,4 +3,5 @@ encrypt:
   key-store:
     location: file://${user.home}/Work/keystore/apiEncryptionKey.jks
     password: test1234
+    #비대칭 키를 이용해서 암호화
     alias: apiEncryptionKey
