@@ -177,3 +177,4 @@ Temporary Items
 
 # ignore
 .gradle/
+src\main\resources\application.yml
