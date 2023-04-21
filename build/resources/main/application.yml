@@ -14,9 +14,7 @@ spring:
     config:
       server:
         native:
-          search-locations: file:///C:\workspace_sm\worksapce_gitHub\V3-API\native-file-repo
-
-
+          search-locations: file:///Users/hj/Work/native-file-repo
 #        git:
 #          uri: https://github.com/smartmeteringV2-5/native-file-repo.git
 #          username: ksmartpia8530
